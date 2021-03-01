@@ -83,12 +83,12 @@ def present_signal(mywin, split_x, split_y, dt, on_off_ratio=0.7,
                     # save movie frames before blank screen
                     mywin.saveMovieFrames(fileName=f'{basename}_Object{k}_quar.mp4', fps=fps, clearFrames=True)
             
-
+            
             if i == int((len(x) * on_off_ratio)/2):
                 if record is True:
                     # save movie frames before blank screen
-                    mywin.saveMovieFrames(fileName=f'{basename}_Object{k}_half.mp4', fps=fps, clearFrames=True)
-
+                    mywin.saveMovieFrames(fileName=f'{basename}_Object{k}_firs.mp4', fps=fps, clearFrames=True)
+            
              
                 if i == int((len(x) * on_off_ratio)/(3/4)):
                 if record is True:
@@ -100,7 +100,7 @@ def present_signal(mywin, split_x, split_y, dt, on_off_ratio=0.7,
 
         if record is True:
             # save movie frames before blank screen
-            mywin.saveMovieFrames(fileName=f'{basename}_Object{k}_firs.mp4', fps=fps, clearFrames=True)
+            mywin.saveMovieFrames(fileName=f'{basename}_Object{k}_half.mp4', fps=fps, clearFrames=True)
 
         # blank screen
         mywin.flip()

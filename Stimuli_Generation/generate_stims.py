@@ -123,14 +123,18 @@ def generate_degrees(signal, cycles, parts=False, stimsPerSequence=5, stimNum=0)
     return radian_array
 
 
-def generate_absent_trajectory(split_input_signal, param_dict=None, type='invert'):
+def generate_absent_trajectory(split_input_signal, seed=666666, param_dict=None, type='invert'):
     """
 
     :param split_input_signal:
     :param param_dict:
     :param type:
+    :param seed:
     :return:
     """
+
+    # set seed
+    np.random.seed(seed)
 
     # choose a stimulus to base off of
     stimulus_choice = rd.choice(split_input_signal)

@@ -240,15 +240,15 @@ def switch_2_list_cols(list1, list2):
     return new_list1, new_list2
 
 
-def concat_clips(filepath, basename, fps, delete=True, natsort=None):
+def concat_clips(filepath, basename, prename, final, fps, delete=True):
     """
-
-    based on:
-    https://stackoverflow.com/questions/56920546/combine-mp4-files-by-order-based-on-number-from-filenames-in-python
 
     :param filepath:
     :param basename:
+    :param prename: the appended name to the basename
+    :param final: if true, renames with final in front
     :param fps:
+    :param delete:
     :return:
     """
     # from moviepy.editor import *
@@ -257,7 +257,7 @@ def concat_clips(filepath, basename, fps, delete=True, natsort=None):
 
     L = []
 
-    whatchuWANT = len(basename)
+    whatchuWANT = len(prename + basename)
 
     for root, dirs, files in os.walk(filepath):
 
@@ -265,13 +265,13 @@ def concat_clips(filepath, basename, fps, delete=True, natsort=None):
         files = natsorted(files)
         for file in files:
             if os.path.splitext(file)[1] == '.mp4':
-                if os.path.splitext(file)[0][0:whatchuWANT] == basename:
+                if os.path.splitext(file)[0][0:whatchuWANT] == prename + basename:
                     filePath = os.path.join(root, file)
                     video = VideoFileClip(filePath)
                     L.append(video)
 
     final_clip = concatenate_videoclips(L)
-    final_clip.to_videofile("all_" + basename + ".mp4", fps=fps, remove_temp=False)
+    final_clip.to_videofile("all_" + prename + basename + ".mp4", fps=fps, remove_temp=False)
 
     if delete is True:
         for root, dirs, files in os.walk(filepath):
@@ -280,11 +280,58 @@ def concat_clips(filepath, basename, fps, delete=True, natsort=None):
             files = natsorted(files)
             for file in files:
                 if os.path.splitext(file)[1] == '.mp4':
-                    if os.path.splitext(file)[0][0:whatchuWANT] == basename:
+                    if os.path.splitext(file)[0][0:whatchuWANT] == prename + basename:
                         filePath = os.path.join(root, file)
                         os.remove(filePath)
 
+    if final is True:
+        os.rename("all_" + prename + basename + ".mp4",
+                  "final_" + basename + ".mp4")
+
     return
+
+def save_audio_mp3(audio_basename, origsavepath, delaysavepath, probesavepath):
+    """
+
+    :param audio_basename:
+    :param origsavepath:
+    :param delaysavepath:
+    :param probesavepath:
+    :return:
+    """
+
+    cwd = os.getcwd()
+
+    # combine wav files together
+    from pydub import AudioSegment
+    AudioSegment.converter = "C:/ffmpeg/bin/ffmpeg.exe"
+
+    sound_orig = AudioSegment.from_file(origsavepath)
+    sound_delay = AudioSegment.from_file(delaysavepath)
+    sound_probe = AudioSegment.from_file(probesavepath)
+
+    orig_delay = sound_orig.append(sound_delay)
+    orig_delay_probe = orig_delay.append(sound_probe)
+
+    file_wav = os.path.dirname(__file__) + '/final_' + audio_basename + '.wav'
+    file_mp3 = file_wav[:-3] + 'mp3'
+
+    # orig_delay_probe.export(file_wav, format='wav')
+    orig_delay_probe.export(file_mp3, format='mp3')
+
+    delete = True
+
+    if delete is True:
+        from natsort import natsorted
+
+        for root, dirs, files in os.walk(cwd):
+            # files.sort()
+            files = natsorted(files)
+            for file in files:
+                if os.path.splitext(file)[1] == '.wav':
+                    if os.path.splitext(file)[0][0:len(audio_basename)] == audio_basename:
+                        filePath = os.path.join(root, file)
+                        os.remove(filePath)
 
 
 def rescale_signal(signal, minmaxRange, split=False):
@@ -350,9 +397,25 @@ def recombine_array(array):
 
     return recombined_array
 
+def combine_audio(vidname, audname, outname, fps=60):
+    """
+    from:
+    https://stackoverflow.com/questions/63881088/how-to-merge-mp3-
+    and-mp4-in-python-mute-a-mp4-file-and-add-a-mp3-file-on-it
 
+    :param vidname:
+    :param audname:
+    :param outname:
+    :param fps:
+    :return:
+    """
+    import moviepy.editor as mpe
+    my_clip = mpe.VideoFileClip(vidname)
+    audio_background = mpe.AudioFileClip(audname)
+    final_clip = my_clip.set_audio(audio_background)
+    final_clip.write_videofile(outname, fps=fps)
 
-
+    return
 
 
 
