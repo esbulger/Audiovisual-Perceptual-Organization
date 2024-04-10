@@ -1,0 +1,904 @@
+﻿Event Index,UTC Timestamp,UTC Date,Local Timestamp,Local Timezone,Local Date,Experiment ID,Experiment Version,Tree Node Key,Repeat Key,Schedule ID,Participant Public ID,Participant Private ID,Participant Starting Group,Participant Status,Participant Completion Code,Participant External Session ID,Participant Device Type,Participant Device,Participant OS,Participant Browser,Participant Monitor Size,Participant Viewport Size,Checkpoint,Task Name,Task Version,branch-fh7p,branch-k5w1,randomiser-1dqj,order-97gj,order-p2cm,checkpoint-nbiu,order-7qf3,checkpoint-2b62,order-pdnx,Spreadsheet,Spreadsheet Name,Spreadsheet Row,Trial Number,Screen Number,Screen Name,Zone Name,Zone Type,Reaction Time,Reaction Onset,Response Type,Response,Attempt,Correct,Incorrect,Dishonest,X Coordinate,Y Coordinate,Timed Out,randomise_blocks,randomise_trials,display,Audio_Filename,Same_Different,Absent_Present,text,embedded,Attend_Condition,Length,Pause,Sequence Pause,Sequence_Names,Switch_Names,Stim_Ind,Stim_Name
+1,1668801297324,18/11/2022 19:54:57,1668801290415,-5,18/11/2022 14:54:50,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,,,BEGIN TASK,,,,,,,,,,0,1,0,,,,,,,,,,,,,,,,,,,
+2,1668801298464,18/11/2022 19:54:58,1668801291596,-5,18/11/2022 14:54:51,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,24,null,1,Screen 1,Zone1,content_web_audio,1.300000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,1,
+3,1668801303360,18/11/2022 19:55:03,1668801296503,-5,18/11/2022 14:54:56,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,24,null,1,Screen 1,Zone1,content_web_audio,4907.700000047684,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,1,
+4,1668801305961,18/11/2022 19:55:05,1668801299127,-5,18/11/2022 14:54:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,24,null,2,Screen 2,buttonA,response_button_text,2595.899999976158,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,1,
+5,1668801306088,18/11/2022 19:55:06,1668801299149,-5,18/11/2022 14:54:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,40,null,1,Screen 1,Zone1,content_web_audio,1.9000000357627869,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,4,
+6,1668801310904,18/11/2022 19:55:10,1668801304057,-5,18/11/2022 14:55:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,40,null,1,Screen 1,Zone1,content_web_audio,4909.800000011921,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,4,
+7,1668801318191,18/11/2022 19:55:18,1668801311347,-5,18/11/2022 14:55:11,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,40,null,2,Screen 2,buttonB,response_button_text,7270.900000035763,null,,present,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,4,
+8,1668801318299,18/11/2022 19:55:18,1668801311364,-5,18/11/2022 14:55:11,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,51,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_6.wav,4,
+9,1668801323114,18/11/2022 19:55:23,1668801316273,-5,18/11/2022 14:55:16,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,51,null,1,Screen 1,Zone1,content_web_audio,4909.100000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_6.wav,4,
+10,1668801326863,18/11/2022 19:55:26,1668801320029,-5,18/11/2022 14:55:20,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,51,null,2,Screen 2,buttonA,response_button_text,3736.600000023842,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_6.wav,4,
+11,1668801326983,18/11/2022 19:55:26,1668801320045,-5,18/11/2022 14:55:20,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,8,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+12,1668801331791,18/11/2022 19:55:31,1668801324953,-5,18/11/2022 14:55:24,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,8,null,1,Screen 1,Zone1,content_web_audio,4908.199999988079,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+13,1668801337993,18/11/2022 19:55:37,1668801331153,-5,18/11/2022 14:55:31,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,8,null,2,Screen 2,buttonB,response_button_text,6178.399999976158,null,,present,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+14,1668801338116,18/11/2022 19:55:38,1668801331169,-5,18/11/2022 14:55:31,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,45,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_bean-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,1,
+15,1668801342929,18/11/2022 19:55:42,1668801336081,-5,18/11/2022 14:55:36,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,45,null,1,Screen 1,Zone1,content_web_audio,4912.099999964237,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_bean-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,1,
+16,1668801343970,18/11/2022 19:55:43,1668801337141,-5,18/11/2022 14:55:37,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,45,null,2,Screen 2,buttonA,response_button_text,1039.800000011921,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_bean-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_-6.wav,1,
+17,1668801344077,18/11/2022 19:55:44,1668801337157,-5,18/11/2022 14:55:37,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,5,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,1,
+18,1668801348910,18/11/2022 19:55:48,1668801342063,-5,18/11/2022 14:55:42,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,5,null,1,Screen 1,Zone1,content_web_audio,4906.400000035763,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,1,
+19,1668801349808,18/11/2022 19:55:49,1668801342968,-5,18/11/2022 14:55:42,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,5,null,2,Screen 2,buttonA,response_button_text,881.3999999761581,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,1,
+20,1668801349914,18/11/2022 19:55:49,1668801342982,-5,18/11/2022 14:55:42,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,22,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-9.wav,0,
+21,1668801354733,18/11/2022 19:55:54,1668801347888,-5,18/11/2022 14:55:47,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,22,null,1,Screen 1,Zone1,content_web_audio,4906.100000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-9.wav,0,
+22,1668801355648,18/11/2022 19:55:55,1668801348816,-5,18/11/2022 14:55:48,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,22,null,2,Screen 2,buttonA,response_button_text,906.1999999880791,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-9.wav,0,
+23,1668801355780,18/11/2022 19:55:55,1668801348831,-5,18/11/2022 14:55:48,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,13,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0.wav,0,
+24,1668801360579,18/11/2022 19:56:00,1668801353737,-5,18/11/2022 14:55:53,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,13,null,1,Screen 1,Zone1,content_web_audio,4906.399999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0.wav,0,
+25,1668801361118,18/11/2022 19:56:01,1668801354284,-5,18/11/2022 14:55:54,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,13,null,2,Screen 2,buttonB,response_button_text,524.5,null,,present,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0.wav,0,
+26,1668801361237,18/11/2022 19:56:01,1668801354299,-5,18/11/2022 14:55:54,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,26,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_3.wav']",AI_balm-changepitchmedian_200__0-changesemitones_9.wav,2,
+27,1668801366052,18/11/2022 19:56:06,1668801359208,-5,18/11/2022 14:55:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,26,null,1,Screen 1,Zone1,content_web_audio,4909.600000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_3.wav']",AI_balm-changepitchmedian_200__0-changesemitones_9.wav,2,
+28,1668801368005,18/11/2022 19:56:08,1668801361175,-5,18/11/2022 14:56:01,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,26,null,2,Screen 2,buttonA,response_button_text,1946.699999988079,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AI_boon-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_3.wav']",AI_balm-changepitchmedian_200__0-changesemitones_9.wav,2,
+29,1668801368121,18/11/2022 19:56:08,1668801361182,-5,18/11/2022 14:56:01,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,15,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gall-changepitchmedian_200__0-changesemitones_12.wav,1,
+30,1668801372925,18/11/2022 19:56:12,1668801366088,-5,18/11/2022 14:56:06,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,15,null,1,Screen 1,Zone1,content_web_audio,4905.900000035763,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gall-changepitchmedian_200__0-changesemitones_12.wav,1,
+31,1668801375785,18/11/2022 19:56:15,1668801368954,-5,18/11/2022 14:56:08,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,15,null,2,Screen 2,buttonA,response_button_text,2844.2999999523163,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_1_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gall-changepitchmedian_200__0-changesemitones_12.wav,1,
+32,1668801375919,18/11/2022 19:56:15,1668801368967,-5,18/11/2022 14:56:08,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,34,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,1,
+33,1668801380712,18/11/2022 19:56:20,1668801373873,-5,18/11/2022 14:56:13,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,34,null,1,Screen 1,Zone1,content_web_audio,4905.800000011921,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,1,
+34,1668801384733,18/11/2022 19:56:24,1668801377762,-5,18/11/2022 14:56:17,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,34,null,2,Screen 2,buttonB,response_button_text,3864.599999964237,null,,present,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,1,
+35,1668801384829,18/11/2022 19:56:24,1668801377776,-5,18/11/2022 14:56:17,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,53,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+36,1668801389512,18/11/2022 19:56:29,1668801382688,-5,18/11/2022 14:56:22,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,53,null,1,Screen 1,Zone1,content_web_audio,4913.5,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+37,1668801391414,18/11/2022 19:56:31,1668801384590,-5,18/11/2022 14:56:24,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,53,null,2,Screen 2,buttonB,response_button_text,1894.7000000476837,null,,present,1,1,0,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+38,1668801391541,18/11/2022 19:56:31,1668801384605,-5,18/11/2022 14:56:24,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,37,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav,2,
+39,1668801396339,18/11/2022 19:56:36,1668801389512,-5,18/11/2022 14:56:29,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,37,null,1,Screen 1,Zone1,content_web_audio,4906.5,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav,2,
+40,1668801403636,18/11/2022 19:56:43,1668801396810,-5,18/11/2022 14:56:36,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,37,null,2,Screen 2,buttonB,response_button_text,7280.299999952316,null,,present,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav,2,
+41,1668801403760,18/11/2022 19:56:43,1668801396820,-5,18/11/2022 14:56:36,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,49,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_3.wav,3,
+42,1668801408561,18/11/2022 19:56:48,1668801401728,-5,18/11/2022 14:56:41,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,49,null,1,Screen 1,Zone1,content_web_audio,4908.100000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_3.wav,3,
+43,1668801410982,18/11/2022 19:56:50,1668801404162,-5,18/11/2022 14:56:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,49,null,2,Screen 2,buttonA,response_button_text,2426.600000023842,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_3.wav,3,
+44,1668801411105,18/11/2022 19:56:51,1668801404169,-5,18/11/2022 14:56:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,41,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-12.wav,4,
+45,1668801415911,18/11/2022 19:56:55,1668801409080,-5,18/11/2022 14:56:49,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,41,null,1,Screen 1,Zone1,content_web_audio,4911.100000023842,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-12.wav,4,
+46,1668801417550,18/11/2022 19:56:57,1668801410723,-5,18/11/2022 14:56:50,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,41,null,2,Screen 2,buttonB,response_button_text,1618,null,,present,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-12.wav,4,
+47,1668801417686,18/11/2022 19:56:57,1668801410738,-5,18/11/2022 14:56:50,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,35,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-9.wav,1,
+48,1668801422480,18/11/2022 19:57:02,1668801415647,-5,18/11/2022 14:56:55,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,35,null,1,Screen 1,Zone1,content_web_audio,4909.800000011921,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-9.wav,1,
+49,1668801424170,18/11/2022 19:57:04,1668801417331,-5,18/11/2022 14:56:57,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,35,null,2,Screen 2,buttonB,response_button_text,1675.5,null,,present,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_1_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-9.wav,1,
+50,1668801424283,18/11/2022 19:57:04,1668801417346,-5,18/11/2022 14:56:57,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,17,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav']",AI_dual-changepitchmedian_200__0-changesemitones_3.wav,2,
+51,1668801429089,18/11/2022 19:57:09,1668801422252,-5,18/11/2022 14:57:02,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,17,null,1,Screen 1,Zone1,content_web_audio,4907.099999964237,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav']",AI_dual-changepitchmedian_200__0-changesemitones_3.wav,2,
+52,1668801431541,18/11/2022 19:57:11,1668801424713,-5,18/11/2022 14:57:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,17,null,2,Screen 2,buttonB,response_button_text,2454.699999988079,null,,present,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav']",AI_dual-changepitchmedian_200__0-changesemitones_3.wav,2,
+53,1668801431655,18/11/2022 19:57:11,1668801424727,-5,18/11/2022 14:57:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,25,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,1,
+54,1668801436479,18/11/2022 19:57:16,1668801429634,-5,18/11/2022 14:57:09,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,25,null,1,Screen 1,Zone1,content_web_audio,4907.400000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,1,
+55,1668801439689,18/11/2022 19:57:19,1668801432861,-5,18/11/2022 14:57:12,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,25,null,2,Screen 2,buttonA,response_button_text,3205.800000011921,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,1,
+56,1668801439806,18/11/2022 19:57:19,1668801432875,-5,18/11/2022 14:57:12,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,47,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AP_goose-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,2,
+57,1668801444606,18/11/2022 19:57:24,1668801437780,-5,18/11/2022 14:57:17,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,47,null,1,Screen 1,Zone1,content_web_audio,4905.799999952316,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AP_goose-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,2,
+58,1668801460904,18/11/2022 19:57:40,1668801454078,-5,18/11/2022 14:57:34,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,47,null,2,Screen 2,buttonA,response_button_text,16287.900000035763,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_1.wav,,present,,,word,5,100,2000,"['AP_goose-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,2,
+59,1668801461029,18/11/2022 19:57:41,1668801454093,-5,18/11/2022 14:57:34,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,7,null,1,Screen 1,Zone1,content_web_audio,0.8999999761581421,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,2,
+60,1668801465843,18/11/2022 19:57:45,1668801459001,-5,18/11/2022 14:57:39,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,7,null,1,Screen 1,Zone1,content_web_audio,4908.899999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,2,
+61,1668801466982,18/11/2022 19:57:46,1668801460158,-5,18/11/2022 14:57:40,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,7,null,2,Screen 2,buttonB,response_button_text,1137,null,,present,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_2_0.wav,,present,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,2,
+62,1668801467106,18/11/2022 19:57:47,1668801460172,-5,18/11/2022 14:57:40,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,46,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-6.wav']",AP_boon-changepitchmedian_100__0.wav,2,
+63,1668801471908,18/11/2022 19:57:51,1668801465080,-5,18/11/2022 14:57:45,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,46,null,1,Screen 1,Zone1,content_web_audio,4908.599999964237,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-6.wav']",AP_boon-changepitchmedian_100__0.wav,2,
+64,1668801474874,18/11/2022 19:57:54,1668801468050,-5,18/11/2022 14:57:48,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,46,null,2,Screen 2,buttonB,response_button_text,2958,null,,present,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-6.wav']",AP_boon-changepitchmedian_100__0.wav,2,
+65,1668801474988,18/11/2022 19:57:54,1668801468057,-5,18/11/2022 14:57:48,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,29,null,1,Screen 1,Zone1,content_web_audio,0.40000003576278687,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0.wav,3,
+66,1668801479798,18/11/2022 19:57:59,1668801472963,-5,18/11/2022 14:57:52,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,29,null,1,Screen 1,Zone1,content_web_audio,4905.5,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0.wav,3,
+67,1668801489130,18/11/2022 19:58:09,1668801482305,-5,18/11/2022 14:58:02,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,29,null,2,Screen 2,buttonB,response_button_text,9322.5,null,,present,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav']",AI_gall-changepitchmedian_200__0.wav,3,
+68,1668801489260,18/11/2022 19:58:09,1668801482322,-5,18/11/2022 14:58:02,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,32,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0.wav,0,
+69,1668801494080,18/11/2022 19:58:14,1668801487233,-5,18/11/2022 14:58:07,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,32,null,1,Screen 1,Zone1,content_web_audio,4911.099999964237,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0.wav,0,
+70,1668801513916,18/11/2022 19:58:33,1668801507077,-5,18/11/2022 14:58:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,32,null,2,Screen 2,buttonB,response_button_text,19823.600000023842,null,,present,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_3.wav']",AP_gear-changepitchmedian_100__0.wav,0,
+71,1668801514025,18/11/2022 19:58:34,1668801507087,-5,18/11/2022 14:58:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,9,null,1,Screen 1,Zone1,content_web_audio,0.3999999761581421,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+72,1668801518838,18/11/2022 19:58:38,1668801511993,-5,18/11/2022 14:58:31,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,9,null,1,Screen 1,Zone1,content_web_audio,4905.599999964237,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+73,1668801526759,18/11/2022 19:58:46,1668801519921,-5,18/11/2022 14:58:39,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,9,null,2,Screen 2,buttonA,response_button_text,7906.400000035763,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav']",AI_dual-changepitchmedian_200__0-changesemitones_-3.wav,3,
+74,1668801526872,18/11/2022 19:58:46,1668801519936,-5,18/11/2022 14:58:39,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,16,null,1,Screen 1,Zone1,content_web_audio,0.9000000357627869,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav']",AI_gall-changepitchmedian_200__0.wav,2,
+75,1668801531682,18/11/2022 19:58:51,1668801524843,-5,18/11/2022 14:58:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,16,null,1,Screen 1,Zone1,content_web_audio,4907.5,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav']",AI_gall-changepitchmedian_200__0.wav,2,
+76,1668801532929,18/11/2022 19:58:52,1668801526098,-5,18/11/2022 14:58:46,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,16,null,2,Screen 2,buttonA,response_button_text,1231.6000000238419,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_9.wav']",AI_gall-changepitchmedian_200__0.wav,2,
+77,1668801533037,18/11/2022 19:58:53,1668801526114,-5,18/11/2022 14:58:46,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,56,null,1,Screen 1,Zone1,content_web_audio,1,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav']",AP_deem-changepitchmedian_100__0-changesemitones_6.wav,2,
+78,1668801537853,18/11/2022 19:58:57,1668801531023,-5,18/11/2022 14:58:51,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,56,null,1,Screen 1,Zone1,content_web_audio,4909.5,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav']",AP_deem-changepitchmedian_100__0-changesemitones_6.wav,2,
+79,1668801543653,18/11/2022 19:59:03,1668801536824,-5,18/11/2022 14:58:56,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,56,null,2,Screen 2,buttonB,response_button_text,5789,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_2_2.wav,,absent,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_3.wav']",AP_deem-changepitchmedian_100__0-changesemitones_6.wav,2,
+80,1668801543773,18/11/2022 19:59:03,1668801536831,-5,18/11/2022 14:58:56,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,58,null,1,Screen 1,Zone1,content_web_audio,0.30000001192092896,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_9.wav']",AP_bean-changepitchmedian_100__0.wav,3,
+81,1668801548590,18/11/2022 19:59:08,1668801541741,-5,18/11/2022 14:59:01,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,58,null,1,Screen 1,Zone1,content_web_audio,4910.100000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_9.wav']",AP_bean-changepitchmedian_100__0.wav,3,
+82,1668801556393,18/11/2022 19:59:16,1668801549547,-5,18/11/2022 14:59:09,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,58,null,2,Screen 2,buttonB,response_button_text,7784.100000023842,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_9.wav']",AP_bean-changepitchmedian_100__0.wav,3,
+83,1668801556514,18/11/2022 19:59:16,1668801549554,-5,18/11/2022 14:59:09,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,39,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-12.wav,3,
+84,1668801561304,18/11/2022 19:59:21,1668801554463,-5,18/11/2022 14:59:14,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,39,null,1,Screen 1,Zone1,content_web_audio,4908.900000035763,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-12.wav,3,
+85,1668801563409,18/11/2022 19:59:23,1668801556566,-5,18/11/2022 14:59:16,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,39,null,2,Screen 2,buttonA,response_button_text,2082.600000023842,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_3_0.wav,,present,,,word,5,100,2000,"['AP_deem-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0.wav']",AP_goose-changepitchmedian_100__0-changesemitones_-12.wav,3,
+86,1668801563525,18/11/2022 19:59:23,1668801556583,-5,18/11/2022 14:59:16,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,31,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_9.wav']",AI_gear-changepitchmedian_200__0.wav,4,
+87,1668801568337,18/11/2022 19:59:28,1668801561492,-5,18/11/2022 14:59:21,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,31,null,1,Screen 1,Zone1,content_web_audio,4909.699999988079,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_9.wav']",AI_gear-changepitchmedian_200__0.wav,4,
+88,1668801570417,18/11/2022 19:59:30,1668801563575,-5,18/11/2022 14:59:23,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,31,null,2,Screen 2,buttonB,response_button_text,2058.7999999523163,null,,present,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_9.wav']",AI_gear-changepitchmedian_200__0.wav,4,
+89,1668801570782,18/11/2022 19:59:30,1668801563590,-5,18/11/2022 14:59:23,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,33,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_12.wav,0,
+90,1668801575340,18/11/2022 19:59:35,1668801568501,-5,18/11/2022 14:59:28,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,33,null,1,Screen 1,Zone1,content_web_audio,4911.300000011921,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_12.wav,0,
+91,1668801582547,18/11/2022 19:59:42,1668801575713,-5,18/11/2022 14:59:35,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,33,null,2,Screen 2,buttonA,response_button_text,7202.599999964237,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gall-changepitchmedian_100__0-changesemitones_12.wav,0,
+92,1668801582653,18/11/2022 19:59:42,1668801575727,-5,18/11/2022 14:59:35,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,48,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_3.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,3,
+93,1668801587483,18/11/2022 19:59:47,1668801580640,-5,18/11/2022 14:59:40,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,48,null,1,Screen 1,Zone1,content_web_audio,4913.5,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_3.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,3,
+94,1668801591874,18/11/2022 19:59:51,1668801585039,-5,18/11/2022 14:59:45,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,48,null,2,Screen 2,buttonB,response_button_text,4377.300000011921,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_3.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,3,
+95,1668801591998,18/11/2022 19:59:51,1668801585055,-5,18/11/2022 14:59:45,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,12,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,0,
+96,1668801596799,18/11/2022 19:59:56,1668801589961,-5,18/11/2022 14:59:49,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,12,null,1,Screen 1,Zone1,content_web_audio,4905.699999988079,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,0,
+97,1668801600598,18/11/2022 20:00:00,1668801593761,-5,18/11/2022 14:59:53,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,12,null,2,Screen 2,buttonA,response_button_text,3784.100000023842,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0-changesemitones_6.wav,0,
+98,1668801600742,18/11/2022 20:00:00,1668801593776,-5,18/11/2022 14:59:53,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,52,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-9.wav,0,
+99,1668801605524,18/11/2022 20:00:05,1668801598682,-5,18/11/2022 14:59:58,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,52,null,1,Screen 1,Zone1,content_web_audio,4906.400000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-9.wav,0,
+100,1668801606912,18/11/2022 20:00:06,1668801600080,-5,18/11/2022 15:00:00,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,52,null,2,Screen 2,buttonB,response_button_text,1376.3999999761581,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_0_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_3.wav']",AP_dual-changepitchmedian_100__0-changesemitones_-9.wav,0,
+101,1668801607020,18/11/2022 20:00:07,1668801600086,-5,18/11/2022 15:00:00,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,57,null,1,Screen 1,Zone1,content_web_audio,0.30000001192092896,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav']",AP_balm-changepitchmedian_100__0-changesemitones_-9.wav,2,
+102,1668801611836,18/11/2022 20:00:11,1668801604992,-5,18/11/2022 15:00:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,57,null,1,Screen 1,Zone1,content_web_audio,4905.900000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav']",AP_balm-changepitchmedian_100__0-changesemitones_-9.wav,2,
+103,1668801612773,18/11/2022 20:00:12,1668801605937,-5,18/11/2022 15:00:05,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,57,null,2,Screen 2,buttonA,response_button_text,921.0999999642372,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav']",AP_balm-changepitchmedian_100__0-changesemitones_-9.wav,2,
+104,1668801612891,18/11/2022 20:00:12,1668801605951,-5,18/11/2022 15:00:05,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,18,null,1,Screen 1,Zone1,content_web_audio,0.7999999523162842,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav']",AI_deem-changepitchmedian_200__0.wav,3,
+105,1668801617701,18/11/2022 20:00:17,1668801610857,-5,18/11/2022 15:00:10,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,18,null,1,Screen 1,Zone1,content_web_audio,4906.599999964237,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav']",AI_deem-changepitchmedian_200__0.wav,3,
+106,1668801619422,18/11/2022 20:00:19,1668801612592,-5,18/11/2022 15:00:12,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,18,null,2,Screen 2,buttonA,response_button_text,1713.5,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_1.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav']",AI_deem-changepitchmedian_200__0.wav,3,
+107,1668801619558,18/11/2022 20:00:19,1668801612601,-5,18/11/2022 15:00:12,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,55,null,1,Screen 1,Zone1,content_web_audio,0.40000003576278687,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,1,
+108,1668801624357,18/11/2022 20:00:24,1668801617512,-5,18/11/2022 15:00:17,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,55,null,1,Screen 1,Zone1,content_web_audio,4910.400000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,1,
+109,1668801625301,18/11/2022 20:00:25,1668801618465,-5,18/11/2022 15:00:18,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,55,null,2,Screen 2,buttonA,response_button_text,936.8000000119209,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_1_2.wav,,present,,,word,5,100,2000,"['AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_gear-changepitchmedian_100__0.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_9.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_6.wav,1,
+110,1668801625410,18/11/2022 20:00:25,1668801618479,-5,18/11/2022 15:00:18,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,4,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0.wav']",AI_gall-changepitchmedian_200__0-changesemitones_6.wav,1,
+111,1668801630219,18/11/2022 20:00:30,1668801623386,-5,18/11/2022 15:00:23,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,4,null,1,Screen 1,Zone1,content_web_audio,4906.799999952316,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0.wav']",AI_gall-changepitchmedian_200__0-changesemitones_6.wav,1,
+112,1668801634283,18/11/2022 20:00:34,1668801627450,-5,18/11/2022 15:00:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,4,null,2,Screen 2,buttonB,response_button_text,4052.399999976158,null,,present,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_0.wav,,absent,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0.wav']",AI_gall-changepitchmedian_200__0-changesemitones_6.wav,1,
+113,1668801634400,18/11/2022 20:00:34,1668801627462,-5,18/11/2022 15:00:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,6,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_3.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,2,
+114,1668801639219,18/11/2022 20:00:39,1668801632368,-5,18/11/2022 15:00:32,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,6,null,1,Screen 1,Zone1,content_web_audio,4906.399999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_3.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,2,
+115,1668801640798,18/11/2022 20:00:40,1668801633964,-5,18/11/2022 15:00:33,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,6,null,2,Screen 2,buttonA,response_button_text,1575.8999999761581,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_3.wav']",AI_goose-changepitchmedian_200__0-changesemitones_-6.wav,2,
+116,1668801641119,18/11/2022 20:00:41,1668801633971,-5,18/11/2022 15:00:33,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,50,null,1,Screen 1,Zone1,content_web_audio,0.30000001192092896,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-12.wav']",AP_bean-changepitchmedian_100__0-changesemitones_9.wav,4,
+117,1668801645712,18/11/2022 20:00:45,1668801638881,-5,18/11/2022 15:00:38,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,50,null,1,Screen 1,Zone1,content_web_audio,4909,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-12.wav']",AP_bean-changepitchmedian_100__0-changesemitones_9.wav,4,
+118,1668801647881,18/11/2022 20:00:47,1668801641044,-5,18/11/2022 15:00:41,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,50,null,2,Screen 2,buttonB,response_button_text,2142,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-12.wav']",AP_bean-changepitchmedian_100__0-changesemitones_9.wav,4,
+119,1668801647982,18/11/2022 20:00:47,1668801641051,-5,18/11/2022 15:00:41,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,59,null,1,Screen 1,Zone1,content_web_audio,0.40000003576278687,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-6.wav']",AP_bean-changepitchmedian_100__0-changesemitones_-12.wav,3,
+120,1668801652794,18/11/2022 20:00:52,1668801645960,-5,18/11/2022 15:00:45,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,59,null,1,Screen 1,Zone1,content_web_audio,4908.699999988079,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-6.wav']",AP_bean-changepitchmedian_100__0-changesemitones_-12.wav,3,
+121,1668801654634,18/11/2022 20:00:54,1668801647809,-5,18/11/2022 15:00:47,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,59,null,2,Screen 2,buttonA,response_button_text,1824,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_3_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_-6.wav']",AP_bean-changepitchmedian_100__0-changesemitones_-12.wav,3,
+122,1668801654754,18/11/2022 20:00:54,1668801647824,-5,18/11/2022 15:00:47,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,28,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_12.wav,3,
+123,1668801659561,18/11/2022 20:00:59,1668801652729,-5,18/11/2022 15:00:52,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,28,null,1,Screen 1,Zone1,content_web_audio,4905.900000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_12.wav,3,
+124,1668801662810,18/11/2022 20:01:02,1668801655977,-5,18/11/2022 15:00:55,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,28,null,2,Screen 2,buttonA,response_button_text,3227.600000023842,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_3_2.wav,,absent,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-9.wav']",AI_goose-changepitchmedian_200__0-changesemitones_12.wav,3,
+125,1668801662929,18/11/2022 20:01:02,1668801655990,-5,18/11/2022 15:00:55,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,10,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_9.wav,4,
+126,1668801667742,18/11/2022 20:01:07,1668801660902,-5,18/11/2022 15:01:00,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,10,null,1,Screen 1,Zone1,content_web_audio,4911.600000023842,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_9.wav,4,
+127,1668801668408,18/11/2022 20:01:08,1668801661582,-5,18/11/2022 15:01:01,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,10,null,2,Screen 2,buttonA,response_button_text,662.5,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_4_0.wav,,absent,,,word,5,100,2000,"['AI_bean-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0.wav'
+ 'AI_deem-changepitchmedian_200__0-changesemitones_-6.wav']",AI_gear-changepitchmedian_200__0-changesemitones_9.wav,4,
+128,1668801668524,18/11/2022 20:01:08,1668801661597,-5,18/11/2022 15:01:01,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,44,null,1,Screen 1,Zone1,content_web_audio,0.7000000476837158,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,1,
+129,1668801673338,18/11/2022 20:01:13,1668801666504,-5,18/11/2022 15:01:06,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,44,null,1,Screen 1,Zone1,content_web_audio,4907,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,1,
+130,1668801675443,18/11/2022 20:01:15,1668801668617,-5,18/11/2022 15:01:08,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,44,null,2,Screen 2,buttonA,response_button_text,2089,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav']",AP_gear-changepitchmedian_100__0-changesemitones_-3.wav,1,
+131,1668801675545,18/11/2022 20:01:15,1668801668631,-5,18/11/2022 15:01:08,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,54,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0.wav']",AP_balm-changepitchmedian_100__0-changesemitones_9.wav,1,
+132,1668801680390,18/11/2022 20:01:20,1668801673542,-5,18/11/2022 15:01:13,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,54,null,1,Screen 1,Zone1,content_web_audio,4910.099999964237,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0.wav']",AP_balm-changepitchmedian_100__0-changesemitones_9.wav,1,
+133,1668801681553,18/11/2022 20:01:21,1668801674721,-5,18/11/2022 15:01:14,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,54,null,2,Screen 2,buttonB,response_button_text,1158.1000000238419,null,,present,1,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_1_2.wav,,absent,,,word,5,100,2000,"['AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0.wav']",AP_balm-changepitchmedian_100__0-changesemitones_9.wav,1,
+134,1668801681666,18/11/2022 20:01:21,1668801674735,-5,18/11/2022 15:01:14,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,30,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_9.wav']",AI_deem-changepitchmedian_200__0-changesemitones_-6.wav,4,
+135,1668801686478,18/11/2022 20:01:26,1668801679642,-5,18/11/2022 15:01:19,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,30,null,1,Screen 1,Zone1,content_web_audio,4906.699999988079,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_9.wav']",AI_deem-changepitchmedian_200__0-changesemitones_-6.wav,4,
+136,1668801688091,18/11/2022 20:01:28,1668801681253,-5,18/11/2022 15:01:21,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,30,null,2,Screen 2,buttonA,response_button_text,1589.6000000238419,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_9.wav']",AI_deem-changepitchmedian_200__0-changesemitones_-6.wav,4,
+137,1668801688199,18/11/2022 20:01:28,1668801681267,-5,18/11/2022 15:01:21,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,14,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0.wav,1,
+138,1668801693016,18/11/2022 20:01:33,1668801686174,-5,18/11/2022 15:01:26,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,14,null,1,Screen 1,Zone1,content_web_audio,4907.5,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0.wav,1,
+139,1668801694522,18/11/2022 20:01:34,1668801687688,-5,18/11/2022 15:01:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,14,null,2,Screen 2,buttonA,response_button_text,1496.3999999761581,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_1_1.wav,,absent,,,word,5,100,2000,"['AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav']",AI_balm-changepitchmedian_200__0.wav,1,
+140,1668801694629,18/11/2022 20:01:34,1668801687696,-5,18/11/2022 15:01:27,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,20,null,1,Screen 1,Zone1,content_web_audio,0.3999999761581421,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,4,
+141,1668801699472,18/11/2022 20:01:39,1668801692601,-5,18/11/2022 15:01:32,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,20,null,1,Screen 1,Zone1,content_web_audio,4906.099999964237,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,4,
+142,1668801704372,18/11/2022 20:01:44,1668801697535,-5,18/11/2022 15:01:37,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,20,null,2,Screen 2,buttonA,response_button_text,4926.199999988079,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_absent_word_5_serial_4_1.wav,,absent,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-6.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,4,
+143,1668801704483,18/11/2022 20:01:44,1668801697551,-5,18/11/2022 15:01:37,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,3,null,1,Screen 1,Zone1,content_web_audio,1.199999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,0,
+144,1668801709304,18/11/2022 20:01:49,1668801702463,-5,18/11/2022 15:01:42,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,3,null,1,Screen 1,Zone1,content_web_audio,4912.800000011921,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,0,
+145,1668801711255,18/11/2022 20:01:51,1668801704429,-5,18/11/2022 15:01:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,3,null,2,Screen 2,buttonB,response_button_text,1946,null,,present,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_0_0.wav,,present,,,word,5,100,2000,"['AI_balm-changepitchmedian_200__0.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_dawn-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_balm-changepitchmedian_200__0-changesemitones_-12.wav,0,
+146,1668801711395,18/11/2022 20:01:51,1668801704443,-5,18/11/2022 15:01:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,36,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,2,
+147,1668801716191,18/11/2022 20:01:56,1668801709350,-5,18/11/2022 15:01:49,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,36,null,1,Screen 1,Zone1,content_web_audio,4906.899999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,2,
+148,1668801718003,18/11/2022 20:01:58,1668801711170,-5,18/11/2022 15:01:51,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,36,null,2,Screen 2,buttonA,response_button_text,1813.3999999761581,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_2_0.wav,,absent,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0-changesemitones_-9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_dawn-changepitchmedian_100__0.wav'
+ 'AP_goose-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,2,
+149,1668801718125,18/11/2022 20:01:58,1668801711183,-5,18/11/2022 15:01:51,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,11,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-9.wav']",AI_bean-changepitchmedian_200__0-changesemitones_3.wav,4,
+150,1668801722933,18/11/2022 20:02:02,1668801716093,-5,18/11/2022 15:01:56,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,11,null,1,Screen 1,Zone1,content_web_audio,4909.5,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-9.wav']",AI_bean-changepitchmedian_200__0-changesemitones_3.wav,4,
+151,1668801726632,18/11/2022 20:02:06,1668801719800,-5,18/11/2022 15:01:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,11,null,2,Screen 2,buttonA,response_button_text,3683.100000023842,null,,absent,1,0,1,0,null,null,false,1,1,task-ap,female_1speaker_present_word_5_serial_4_0.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-9.wav']",AI_bean-changepitchmedian_200__0-changesemitones_3.wav,4,
+152,1668801726746,18/11/2022 20:02:06,1668801719813,-5,18/11/2022 15:01:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,23,null,1,Screen 1,Zone1,content_web_audio,0.5999999642372131,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_9.wav,0,
+153,1668801731559,18/11/2022 20:02:11,1668801724721,-5,18/11/2022 15:02:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,23,null,1,Screen 1,Zone1,content_web_audio,4907.699999988079,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_9.wav,0,
+154,1668801737448,18/11/2022 20:02:17,1668801730613,-5,18/11/2022 15:02:10,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,23,null,2,Screen 2,buttonA,response_button_text,5869.700000047684,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_0_2.wav,,present,,,word,5,100,2000,"['AI_gall-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_deem-changepitchmedian_200__0.wav'
+ 'AI_dual-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_9.wav,0,
+155,1668801737569,18/11/2022 20:02:17,1668801730628,-5,18/11/2022 15:02:10,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,2,null,1,Screen 1,Zone1,content_web_audio,0.800000011920929,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav']",AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav,0,
+156,1668801742382,18/11/2022 20:02:22,1668801735537,-5,18/11/2022 15:02:15,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,2,null,1,Screen 1,Zone1,content_web_audio,4909,null,,null,,0,1,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav']",AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav,0,
+157,1668801746909,18/11/2022 20:02:26,1668801740080,-5,18/11/2022 15:02:20,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,2,null,2,Screen 2,buttonA,response_button_text,4524.5,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,female_1speaker_absent_word_5_serial_0_0.wav,,absent,,,word,5,100,2000,"['AI_deem-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_9.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav']",AI_dawn-changepitchmedian_200__0-changesemitones_-12.wav,0,
+158,1668801747036,18/11/2022 20:02:27,1668801740088,-5,18/11/2022 15:02:20,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,60,null,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,4,
+159,1668801751851,18/11/2022 20:02:31,1668801745001,-5,18/11/2022 15:02:25,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,60,null,1,Screen 1,Zone1,content_web_audio,4913.5,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,4,
+160,1668801755874,18/11/2022 20:02:35,1668801749037,-5,18/11/2022 15:02:29,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,60,null,2,Screen 2,buttonA,response_button_text,4016.800000011921,null,,absent,1,1,0,0,null,null,false,2,1,task-ap,male_1speaker_absent_word_5_serial_4_2.wav,,absent,,,word,5,100,2000,"['AP_dawn-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav']",AP_balm-changepitchmedian_100__0-changesemitones_3.wav,4,
+161,1668801756001,18/11/2022 20:02:36,1668801749052,-5,18/11/2022 15:02:29,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,21,null,1,Screen 1,Zone1,content_web_audio,0.7000000476837158,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,4,
+162,1668801760800,18/11/2022 20:02:40,1668801753960,-5,18/11/2022 15:02:33,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,21,null,1,Screen 1,Zone1,content_web_audio,4908.400000035763,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,4,
+163,1668801765965,18/11/2022 20:02:45,1668801759131,-5,18/11/2022 15:02:39,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,21,null,2,Screen 2,buttonA,response_button_text,5153,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_4_1.wav,,present,,,word,5,100,2000,"['AI_dawn-changepitchmedian_200__0.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_bean-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-3.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_12.wav']",AI_gall-changepitchmedian_200__0-changesemitones_-9.wav,4,
+164,1668801766092,18/11/2022 20:02:46,1668801759145,-5,18/11/2022 15:02:39,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,42,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav']",AP_deem-changepitchmedian_100__0-changesemitones_-9.wav,0,
+165,1668801770896,18/11/2022 20:02:50,1668801764053,-5,18/11/2022 15:02:44,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,42,null,1,Screen 1,Zone1,content_web_audio,4907.899999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav']",AP_deem-changepitchmedian_100__0-changesemitones_-9.wav,0,
+166,1668801774526,18/11/2022 20:02:54,1668801767689,-5,18/11/2022 15:02:47,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,42,null,2,Screen 2,buttonA,response_button_text,3614.199999988079,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_0_1.wav,,absent,,,word,5,100,2000,"['AP_bean-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gear-changepitchmedian_100__0-changesemitones_6.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dawn-changepitchmedian_100__0-changesemitones_-6.wav']",AP_deem-changepitchmedian_100__0-changesemitones_-9.wav,0,
+167,1668801774646,18/11/2022 20:02:54,1668801767704,-5,18/11/2022 15:02:47,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,19,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,3,
+168,1668801779455,18/11/2022 20:02:59,1668801772612,-5,18/11/2022 15:02:52,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,19,null,1,Screen 1,Zone1,content_web_audio,4908.600000023842,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,3,
+169,1668801786518,18/11/2022 20:03:06,1668801779681,-5,18/11/2022 15:02:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,19,null,2,Screen 2,buttonA,response_button_text,7044.900000035763,null,,absent,1,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_3_1.wav,,present,,,word,5,100,2000,"['AI_gear-changepitchmedian_200__0-changesemitones_-6.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_bean-changepitchmedian_200__0.wav'
+ 'AI_boon-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_gall-changepitchmedian_200__0-changesemitones_6.wav']",AI_boon-changepitchmedian_200__0-changesemitones_9.wav,3,
+170,1668801786641,18/11/2022 20:03:06,1668801779695,-5,18/11/2022 15:02:59,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,38,null,1,Screen 1,Zone1,content_web_audio,0.699999988079071,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-6.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav,3,
+171,1668801791442,18/11/2022 20:03:11,1668801784603,-5,18/11/2022 15:03:04,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,38,null,1,Screen 1,Zone1,content_web_audio,4907.699999988079,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-6.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav,3,
+172,1668801794326,18/11/2022 20:03:14,1668801787489,-5,18/11/2022 15:03:07,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,38,null,2,Screen 2,buttonA,response_button_text,2863.7999999523163,null,,absent,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_absent_word_5_serial_3_0.wav,,absent,,,word,5,100,2000,"['AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_goose-changepitchmedian_100__0.wav'
+ 'AP_gall-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_-6.wav']",AP_dawn-changepitchmedian_100__0-changesemitones_-12.wav,3,
+173,1668801794441,18/11/2022 20:03:14,1668801787504,-5,18/11/2022 15:03:07,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,27,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-3.wav,2,
+174,1668801799243,18/11/2022 20:03:19,1668801792410,-5,18/11/2022 15:03:12,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,27,null,1,Screen 1,Zone1,content_web_audio,4906,null,,null,,0,1,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-3.wav,2,
+175,1668801800756,18/11/2022 20:03:20,1668801793919,-5,18/11/2022 15:03:13,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,27,null,2,Screen 2,buttonB,response_button_text,1503.800000011921,null,,present,1,1,0,0,null,null,false,2,1,task-ap,female_1speaker_present_word_5_serial_2_2.wav,,present,,,word,5,100,2000,"['AI_dual-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_goose-changepitchmedian_200__0-changesemitones_6.wav'
+ 'AI_gear-changepitchmedian_200__0-changesemitones_-9.wav'
+ 'AI_boon-changepitchmedian_200__0.wav'
+ 'AI_balm-changepitchmedian_200__0-changesemitones_-12.wav']",AI_gear-changepitchmedian_200__0-changesemitones_-3.wav,2,
+176,1668801800862,18/11/2022 20:03:20,1668801793929,-5,18/11/2022 15:03:13,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,61,null,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav']",AP_boon-changepitchmedian_100__0-changesemitones_-9.wav,4,
+177,1668801805684,18/11/2022 20:03:25,1668801798841,-5,18/11/2022 15:03:18,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,61,null,1,Screen 1,Zone1,content_web_audio,4912,null,,null,,0,1,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav']",AP_boon-changepitchmedian_100__0-changesemitones_-9.wav,4,
+178,1668801806771,18/11/2022 20:03:26,1668801799891,-5,18/11/2022 15:03:19,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,61,null,2,Screen 2,buttonB,response_button_text,1028.699999988079,null,,present,1,1,0,0,null,null,false,2,1,task-ap,male_1speaker_present_word_5_serial_4_2.wav,,present,,,word,5,100,2000,"['AP_balm-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_deem-changepitchmedian_100__0.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_9.wav'
+ 'AP_bean-changepitchmedian_100__0-changesemitones_3.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-12.wav']",AP_boon-changepitchmedian_100__0-changesemitones_-9.wav,4,
+179,1668801806889,18/11/2022 20:03:26,1668801799901,-5,18/11/2022 15:03:19,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,43,null,1,Screen 1,Zone1,content_web_audio,0.5,null,,AUDIO PLAY REQUESTED,1,0,1,0,,,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+180,1668801811633,18/11/2022 20:03:31,1668801804808,-5,18/11/2022 15:03:24,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,43,null,1,Screen 1,Zone1,content_web_audio,4906.899999976158,null,,null,,0,1,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+181,1668801813453,18/11/2022 20:03:33,1668801806618,-5,18/11/2022 15:03:26,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,AP_word_5,43,null,2,Screen 2,buttonB,response_button_text,1803.6000000238419,null,,present,1,1,0,0,null,null,false,1,1,task-ap,male_1speaker_present_word_5_serial_0_1.wav,,present,,,word,5,100,2000,"['AP_gear-changepitchmedian_100__0.wav'
+ 'AP_deem-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boon-changepitchmedian_100__0-changesemitones_-3.wav'
+ 'AP_dual-changepitchmedian_100__0-changesemitones_-6.wav'
+ 'AP_balm-changepitchmedian_100__0-changesemitones_-12.wav']",AP_gear-changepitchmedian_100__0-changesemitones_9.wav,0,
+182,1668801813563,18/11/2022 20:03:33,1668801806621,-5,18/11/2022 15:03:26,56819,4,task-sg16,,25335249,,7494784,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 107.0.0.0,1920x1080,2133x1067,halfway,Perceptual Organization Pilot - Audio,39,Practice Good,,word,,ABC,,,halfway,ABC,AP_word_5,,,END TASK,,,,,516206,,,,,0,1,0,,,,,,,,,,,,,,,,,,,
+END OF FILE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
