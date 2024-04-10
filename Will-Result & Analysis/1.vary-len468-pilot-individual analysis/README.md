@@ -1,6 +1,6 @@
-# Perceptual Similarity Data Analysis
+# Perceptual Organization Data Analysis
 
-This repository contains a series of Jupyter notebooks designed for the individual data analysis of perceptual similarity experiments. These notebooks are tailored for calculating correctness, d-prime scores, and other statistical measures for both AP (Absent/Present) and SD (Same/Different) tasks.
+This repository contains a series of Jupyter notebooks designed for the individual data analysis of perceptual organziation experiments. These notebooks are tailored for calculating correctness, d-prime scores, and other statistical measures for both AP (Absent/Present) and SD (Same/Different) tasks.
 
 
 ### Notebooks
