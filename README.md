@@ -33,5 +33,19 @@ Use a unitary sequence that includes both pitch and words/syllables to achieve c
     - Solution: use P/A words/syllables but absent pitches to create a new pair 
 
 ## Experiment design (version 4) and the questions it answers 
-In the experiment version 2 & 3, we run the stimuli with length 4, 6, 8, and the qprime of the pilot data is around 1 which is lower than we expected. This version of the experiment design aim to introduce 2 different version of the P/A and S/D task which non-attending dimension is fixed within every trial. 
-- We are curious how much the performance could improve with extracting the information from the stimuli by keeping it constant/unchanged
+Based on the provided template and the content of the "ARO_Abstract_Will.pdf" file, here's the markdown for Experiment design (version 4) and the questions it answers:
+
+## Experiment design (version 4) and the questions it answers
+
+### S/D (Same/Different)
+- **Attend perceptual similarity:** How does the perceptual similarity of sequence elements affect sequence order recognition?
+    - Variables: Different sets of sounds (tones, everyday sounds, and cat meows), each presenting varying levels of perceptual similarity.
+    - Rationale: To understand how perceptual similarity, as a variable, influences the ability to recognize sequence order. The inclusion of cat meows, a mid-level perceptual similarity sound set, aims to further dissect this relationship.
+
+
+### P/A (Present/Absent)
+- **Attend perceptual similarity:** How does the perceptual similarity between sounds affect the ability to identify individual items within sequences?
+    - Variables: Use of tones, everyday sounds, and cat meows to test the impact of perceptual similarity on item identification.
+    - Rational: Examining the influence of perceptual similarity on memory tasks, using sets of sounds that range from highly to moderately similar.
+
+This design aims to delve deeper into how pitch and perceptual similarity independently influence auditory sequence memory and recognition, expanding on previous findings by introducing a novel sound set (cat meows).
