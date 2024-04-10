@@ -1,5 +1,5 @@
 
-# Perceptual Similarity Data Analysis (multi-subject)
+# Perceptual Organization Data Analysis (multisubject)
 
-This repository contains a series of Jupyter notebooks designed for the multisubject data analysis of perceptual similarity experiments.
+This repository contains a series of Jupyter notebooks designed for the multisubject data analysis of perceptual organization experiments.
 
