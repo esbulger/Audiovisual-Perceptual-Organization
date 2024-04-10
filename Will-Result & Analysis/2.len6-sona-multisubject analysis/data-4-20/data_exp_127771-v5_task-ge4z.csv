@@ -1,0 +1,298 @@
+﻿Event Index,UTC Timestamp,UTC Date,Local Timestamp,Local Timezone,Local Date,Experiment ID,Experiment Version,Tree Node Key,Repeat Key,Schedule ID,Participant Public ID,Participant Private ID,Participant Starting Group,Participant Status,Participant Completion Code,Participant External Session ID,Participant Device Type,Participant Device,Participant OS,Participant Browser,Participant Monitor Size,Participant Viewport Size,Checkpoint,Task Name,Task Version,branch-fh7p,branch-inb7,order-l841,order-bvi9,randomiser-s4k1,branch-lfp6,order-svai,branch-8j67,order-md2h,Spreadsheet,Spreadsheet Name,Spreadsheet Row,Trial Number,Screen Number,Screen Name,Zone Name,Zone Type,Reaction Time,Reaction Onset,Response Type,Response,Attempt,Correct,Incorrect,Dishonest,X Coordinate,Y Coordinate,Timed Out,randomise_blocks,randomise_trials,display,Audio_Filename,Same_Different,text,embedded,Attend_Condition,Present_Absent,Absent_Present,Length,Pause,Sequence Pause,Sequence_Names,Switch_Names,Stim_Ind,Stim_Name,Non_attend_dim
+1,1681935019038,19/04/2023 20:10:19,1681934849539,-4,19/04/2023 16:07:29,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,,,BEGIN TASK,,,,,,,,,,0,1,0,,,,,,,,,,,,,,,,,,,,,
+2,1681935032015,19/04/2023 20:10:32,1681934862551,-4,19/04/2023 16:07:42,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,1,1,1,Screen 1,advancementZone,continue_button,12988.300000071526,,,,,0,1,0,,,,,,text,,,"<p style=""font-size: 32px;""> In this final practice section, you will hear a sequence of syllables with different pitches, a pause, then a single syllable. Your task is to determine whether the PITCH itself was present or absent from the sequence. </p>",,,,,,,,,,,,
+3,1681935032164,19/04/2023 20:10:32,1681934862558,-4,19/04/2023 16:07:42,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,1,1,Screen 1,Zone1,content_web_audio,0.6000000238418579,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+4,1681935036864,19/04/2023 20:10:36,1681934867413,-4,19/04/2023 16:07:47,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,1,1,Screen 1,Zone1,content_web_audio,4855.200000047684,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+5,1681935039897,19/04/2023 20:10:39,1681934870447,-4,19/04/2023 16:07:50,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,1,2,Screen 2,buttonA,response_button_text,3025.2999999523163,,,present,1,1,0,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+6,1681935040428,19/04/2023 20:10:40,1681934870948,-4,19/04/2023 16:07:50,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,1,Screen 1,Zone1,content_web_audio,0.30000007152557373,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+7,1681935045265,19/04/2023 20:10:45,1681934875799,-4,19/04/2023 16:07:55,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,1,Screen 1,Zone1,content_web_audio,4850.600000023842,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+8,1681935051022,19/04/2023 20:10:51,1681934881574,-4,19/04/2023 16:08:01,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,2,Screen 2,buttonB,response_button_text,5764.300000071526,,,absent,1,1,0,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+9,1681935051525,19/04/2023 20:10:51,1681934882069,-4,19/04/2023 16:08:02,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,3,1,Screen 1,Zone1,content_web_audio,0.3999999761581421,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+10,1681935056371,19/04/2023 20:10:56,1681934886920,-4,19/04/2023 16:08:06,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,3,1,Screen 1,Zone1,content_web_audio,4851.200000047684,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+11,1681935060955,19/04/2023 20:11:00,1681934891502,-4,19/04/2023 16:08:11,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,3,2,Screen 2,buttonB,response_button_text,4572.899999976158,,,absent,1,1,0,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+12,1681935061462,19/04/2023 20:11:01,1681934892004,-4,19/04/2023 16:08:12,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,4,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+13,1681935066320,19/04/2023 20:11:06,1681934896855,-4,19/04/2023 16:08:16,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,4,1,Screen 1,Zone1,content_web_audio,4850.899999976158,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+14,1681935074148,19/04/2023 20:11:14,1681934904700,-4,19/04/2023 16:08:24,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,4,2,Screen 2,buttonB,response_button_text,7823.400000095367,,,absent,1,1,0,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+15,1681935081372,19/04/2023 20:11:21,1681934911915,-4,19/04/2023 16:08:31,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,6,2,1,Screen 1,advancementZone,continue_button,6711,,,,,0,1,0,,,,,,text,,,"<p style=""font-size: 32px;""> In this final practice section, you will hear a sequence of syllables with different pitches, a pause, then a single syllable. Your task is to determine whether the SYLLABLE itself was present or absent from the sequence. </p>",,,,,,,,,,,,
+16,1681935081480,19/04/2023 20:11:21,1681934911921,-4,19/04/2023 16:08:31,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,5,1,Screen 1,Zone1,content_web_audio,0.3999999761581421,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+17,1681935086219,19/04/2023 20:11:26,1681934916771,-4,19/04/2023 16:08:36,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,5,1,Screen 1,Zone1,content_web_audio,4850.399999976158,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+18,1681935089670,19/04/2023 20:11:29,1681934920213,-4,19/04/2023 16:08:40,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,5,2,Screen 2,buttonA,response_button_text,3433,,,present,1,1,0,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+19,1681935090146,19/04/2023 20:11:30,1681934920699,-4,19/04/2023 16:08:40,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,6,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+20,1681935095009,19/04/2023 20:11:35,1681934925550,-4,19/04/2023 16:08:45,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,6,1,Screen 1,Zone1,content_web_audio,4850.700000047684,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+21,1681935097647,19/04/2023 20:11:37,1681934928189,-4,19/04/2023 16:08:48,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,6,2,Screen 2,buttonA,response_button_text,2629.899999976158,,,present,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+22,1681935098137,19/04/2023 20:11:38,1681934928691,-4,19/04/2023 16:08:48,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+23,1681935102992,19/04/2023 20:11:42,1681934933541,-4,19/04/2023 16:08:53,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,1,Screen 1,Zone1,content_web_audio,4850.5,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+24,1681935108188,19/04/2023 20:11:48,1681934938741,-4,19/04/2023 16:08:58,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,2,Screen 2,buttonB,response_button_text,5190,,,absent,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+25,1681935108687,19/04/2023 20:11:48,1681934939233,-4,19/04/2023 16:08:59,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+26,1681935113556,19/04/2023 20:11:53,1681934944084,-4,19/04/2023 16:09:04,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,1,Screen 1,Zone1,content_web_audio,4851.600000023842,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+27,1681935118058,19/04/2023 20:11:58,1681934948605,-4,19/04/2023 16:09:08,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,2,Screen 2,buttonA,response_button_text,4510.100000023842,,,present,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+28,1681935118553,19/04/2023 20:11:58,1681934949103,-4,19/04/2023 16:09:09,127771,5,task-ge4z,,28975749,BLIND,8629404,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Good,Practice Good,BA,BA,AP-SD,,,,,V4-AP-practice1,,,END TASK,,,,,99564,,,,,0,1,0,,,,,,,,,,,,,,,,,,,,,
+1,1681917244081,19/04/2023 15:14:04,1681917074670,-4,19/04/2023 11:11:14,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,,,BEGIN TASK,,,,,,,,,,0,1,0,,,,,,,,,,,,,,,,,,,,,
+2,1681917247070,19/04/2023 15:14:07,1681917077708,-4,19/04/2023 11:11:17,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,1,1,1,Screen 1,advancementZone,continue_button,3004.5,,,,,0,1,0,,,,,,text,,,"<p style=""font-size: 32px;""> In this final practice section, you will hear a sequence of syllables with different pitches, a pause, then a single syllable. Your task is to determine whether the PITCH itself was present or absent from the sequence. </p>",,,,,,,,,,,,
+3,1681917247200,19/04/2023 15:14:07,1681917077714,-4,19/04/2023 11:11:17,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,1,1,Screen 1,Zone1,content_web_audio,0.5,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+4,1681917251917,19/04/2023 15:14:11,1681917082569,-4,19/04/2023 11:11:22,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,1,1,Screen 1,Zone1,content_web_audio,4856,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+5,1681917253932,19/04/2023 15:14:13,1681917084533,-4,19/04/2023 11:11:24,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,2,1,2,Screen 2,buttonA,response_button_text,1955.8999999761581,,,present,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_4_1fixed_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav,4,,fixed
+6,1681917254392,19/04/2023 15:14:14,1681917085048,-4,19/04/2023 11:11:25,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,1,Screen 1,Zone1,content_web_audio,13.600000023841858,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+7,1681917259267,19/04/2023 15:14:19,1681917089899,-4,19/04/2023 11:11:29,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,1,Screen 1,Zone1,content_web_audio,4864.199999928474,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+8,1681917261326,19/04/2023 15:14:21,1681917091972,-4,19/04/2023 11:11:31,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,4,2,2,Screen 2,buttonA,response_button_text,2062.600000023842,,,present,1,0,1,0,,,,,1,task-ap-feedback,Block_5_female_1speaker_absent_pitch_6_serial_1_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AI_doo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav']",AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-8.wav,1,,rand
+9,1681917261824,19/04/2023 15:14:21,1681917092471,-4,19/04/2023 11:11:32,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,3,1,Screen 1,Zone1,content_web_audio,1.0999999046325684,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+10,1681917266673,19/04/2023 15:14:26,1681917097324,-4,19/04/2023 11:11:37,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,3,1,Screen 1,Zone1,content_web_audio,4853.299999952316,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+11,1681917267717,19/04/2023 15:14:27,1681917098372,-4,19/04/2023 11:11:38,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,3,3,2,Screen 2,buttonA,response_button_text,1038.3000000715256,,,present,1,1,0,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_present_pitch_6_serial_0_1fixed_prac.wav,,,prac_corr,### pitch,,present,6,10,2000,"['AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav,0,,fixed
+12,1681917268218,19/04/2023 15:14:28,1681917098864,-4,19/04/2023 11:11:38,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,4,1,Screen 1,Zone1,content_web_audio,0.19999992847442627,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+13,1681917273071,19/04/2023 15:14:33,1681917103716,-4,19/04/2023 11:11:43,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,4,1,Screen 1,Zone1,content_web_audio,4851,,,,,0,1,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+14,1681917274128,19/04/2023 15:14:34,1681917104772,-4,19/04/2023 11:11:44,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,5,4,2,Screen 2,buttonB,response_button_text,1046.6999999284744,,,absent,1,1,0,0,,,,,1,task-ap-feedback,Block_5_male_1speaker_absent_pitch_6_serial_2_1rand_prac.wav,,,prac_corr,### pitch,,absent,6,10,2000,"['AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-8.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav']",AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav,2,,rand
+15,1681917280691,19/04/2023 15:14:40,1681917111329,-4,19/04/2023 11:11:51,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,6,2,1,Screen 1,advancementZone,continue_button,6046.5,,,,,0,1,0,,,,,,text,,,"<p style=""font-size: 32px;""> In this final practice section, you will hear a sequence of syllables with different pitches, a pause, then a single syllable. Your task is to determine whether the SYLLABLE itself was present or absent from the sequence. </p>",,,,,,,,,,,,
+16,1681917280821,19/04/2023 15:14:40,1681917111336,-4,19/04/2023 11:11:51,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,5,1,Screen 1,Zone1,content_web_audio,0.40000009536743164,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+17,1681917285536,19/04/2023 15:14:45,1681917116187,-4,19/04/2023 11:11:56,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,5,1,Screen 1,Zone1,content_web_audio,4850.800000071526,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+18,1681917287747,19/04/2023 15:14:47,1681917118404,-4,19/04/2023 11:11:58,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,8,5,2,Screen 2,buttonB,response_button_text,2206.1999999284744,,,absent,1,1,0,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_bee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_da-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav']",AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav,1,,fixed
+19,1681917288250,19/04/2023 15:14:48,1681917118899,-4,19/04/2023 11:11:58,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,6,1,Screen 1,Zone1,content_web_audio,0.2999999523162842,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+20,1681917293103,19/04/2023 15:14:53,1681917123752,-4,19/04/2023 11:12:03,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,6,1,Screen 1,Zone1,content_web_audio,4852.199999928474,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+21,1681917295034,19/04/2023 15:14:55,1681917125692,-4,19/04/2023 11:12:05,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,7,6,2,Screen 2,buttonB,response_button_text,1918.1999999284744,,,absent,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_1_1fixed_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_gee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav']",AI_ba-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav,1,,fixed
+22,1681917295542,19/04/2023 15:14:55,1681917126192,-4,19/04/2023 11:12:06,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,1,Screen 1,Zone1,content_web_audio,1.2000000476837158,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+23,1681917300408,19/04/2023 15:15:00,1681917131046,-4,19/04/2023 11:12:11,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,1,Screen 1,Zone1,content_web_audio,4854.300000071526,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+24,1681917301459,19/04/2023 15:15:01,1681917132115,-4,19/04/2023 11:12:12,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,9,7,2,Screen 2,buttonB,response_button_text,1055.1000000238419,,,absent,1,0,1,0,,,,,2,task-ap-feedback,Block_5_female_1speaker_present_word_6_serial_4_1rand_prac.wav,,,prac_corr,### word,,present,6,10,2000,"['AI_goo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_12.wav'
+ 'AI_da-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_4.wav'
+ 'AI_boo-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_8.wav'
+ 'AI_dee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_16.wav'
+ 'AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-16.wav'
+ 'AI_ga-changeduration_Stretch__0_4-changepitchmedian_200__0.wav']",AI_bee-changeduration_Stretch__0_4-changepitchmedian_200__0-changesemitones_-4.wav,4,,rand
+25,1681917301959,19/04/2023 15:15:01,1681917132609,-4,19/04/2023 11:12:12,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,1,Screen 1,Zone1,content_web_audio,0.30000007152557373,,,AUDIO PLAY REQUESTED,1,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+26,1681917306811,19/04/2023 15:15:06,1681917137460,-4,19/04/2023 11:12:17,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,1,Screen 1,Zone1,content_web_audio,4850.899999976158,,,,,0,1,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+27,1681917308112,19/04/2023 15:15:08,1681917138763,-4,19/04/2023 11:12:18,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,V4-AP-practice1,10,8,2,Screen 2,buttonB,response_button_text,1294.5,,,absent,1,1,0,0,,,,,2,task-ap-feedback,Block_5_male_1speaker_absent_word_6_serial_1_1rand_prac.wav,,,prac_corr,### word,,absent,6,10,2000,"['AP_goo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_4.wav'
+ 'AP_ba-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_8.wav'
+ 'AP_doo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_16.wav'
+ 'AP_boo-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-12.wav'
+ 'AP_dee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_12.wav'
+ 'AP_ga-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-4.wav']",AP_gee-changeduration_Stretch__0_4-changepitchmedian_100__0-changesemitones_-16.wav,1,,rand
+28,1681917308605,19/04/2023 15:15:08,1681917139261,-4,19/04/2023 11:12:19,127771,5,task-ge4z,,28968906,BLIND,8627700,,complete,,,computer,Desktop or Laptop,Windows 10,Chrome 112.0.0.0,1920x1200,1920x1089,,Perceptual Organization Pilot - Audio,78,Practice Bad,Practice Bad,AB,AB,AP-SD,,,,,V4-AP-practice1,,,END TASK,,,,,64591,,,,,0,1,0,,,,,,,,,,,,,,,,,,,,,
+END OF FILE
