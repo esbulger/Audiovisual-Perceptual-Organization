@@ -1,0 +1,19 @@
+Sequence_Names,Switch_Names,Percent_Correctness
+"baby_3ms, sheep_3ms, snore_3ms, frog_3ms","baby_3ms, sheep_3ms, snore_3ms, frog_3ms",0.675
+"baby_3ms, snore_3ms, brush_teeth_3ms, laugh_3ms","baby_3ms, snore_3ms, brush_teeth_3ms, laugh_3ms",0.825
+"bell_3ms, brush_teeth_3ms, foot_step_3ms, car_engine_3ms","bell_3ms, brush_teeth_3ms, foot_step_3ms, car_engine_3ms",0.7
+"brush_teeth_3ms, bell_3ms, sizzling_pan_3ms, laugh_3ms","brush_teeth_3ms, bell_3ms, sizzling_pan_3ms, laugh_3ms",0.875
+"brush_teeth_3ms, frog_3ms, baby_3ms, phone_ring_3ms","brush_teeth_3ms, frog_3ms, baby_3ms, phone_ring_3ms",0.675
+"brush_teeth_3ms, laugh_3ms, car_horn_3ms, cough_3ms","brush_teeth_3ms, laugh_3ms, car_horn_3ms, cough_3ms",0.75
+"car_engine_3ms, motor_3ms, phone_ring_3ms, sheep_3ms","car_engine_3ms, motor_3ms, phone_ring_3ms, sheep_3ms",0.925
+"car_horn_3ms, baby_3ms, sheep_3ms, sizzling_pan_3ms","car_horn_3ms, baby_3ms, sheep_3ms, sizzling_pan_3ms",0.825
+"cough_3ms, drink_water_3ms, frog_3ms, foot_step_3ms","cough_3ms, drink_water_3ms, frog_3ms, foot_step_3ms",0.825
+"foot_step_3ms, bell_3ms, cough_3ms, brush_teeth_3ms","foot_step_3ms, bell_3ms, cough_3ms, brush_teeth_3ms",0.725
+"foot_step_3ms, car_engine_3ms, baby_3ms, drink_water_3ms","foot_step_3ms, car_engine_3ms, baby_3ms, drink_water_3ms",0.75
+"motor_3ms, laugh_3ms, drink_water_3ms, cough_3ms","motor_3ms, laugh_3ms, drink_water_3ms, cough_3ms",0.825
+"phone_ring_3ms, car_horn_3ms, bell_3ms, cough_3ms","phone_ring_3ms, car_horn_3ms, bell_3ms, cough_3ms",0.775
+"phone_ring_3ms, sizzling_pan_3ms, foot_step_3ms, frog_3ms","phone_ring_3ms, sizzling_pan_3ms, foot_step_3ms, frog_3ms",0.975
+"sheep_3ms, frog_3ms, laugh_3ms, bell_3ms","sheep_3ms, frog_3ms, laugh_3ms, bell_3ms",0.775
+"sizzling_pan_3ms, car_horn_3ms, bell_3ms, drink_water_3ms","sizzling_pan_3ms, car_horn_3ms, bell_3ms, drink_water_3ms",0.825
+"snore_3ms, foot_step_3ms, laugh_3ms, car_engine_3ms","snore_3ms, foot_step_3ms, laugh_3ms, car_engine_3ms",0.775
+"snore_3ms, frog_3ms, drink_water_3ms, baby_3ms","snore_3ms, frog_3ms, drink_water_3ms, baby_3ms",0.85

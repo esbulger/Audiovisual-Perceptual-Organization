@@ -1,0 +1,19 @@
+Sequence_Names,Switch_Names,Stim_Ind,Percent_Correctness
+"baby_3ms, car_horn_3ms, car_engine_3ms, frog_3ms","baby_3ms, car_horn_3ms, frog_3ms, car_engine_3ms",2.0,0.65
+"baby_3ms, drink_water_3ms, phone_ring_3ms, snore_3ms","drink_water_3ms, baby_3ms, phone_ring_3ms, snore_3ms",0.0,0.675
+"baby_3ms, snore_3ms, laugh_3ms, car_engine_3ms","baby_3ms, laugh_3ms, snore_3ms, car_engine_3ms",1.0,0.5
+"bell_3ms, baby_3ms, sizzling_pan_3ms, cough_3ms","bell_3ms, baby_3ms, cough_3ms, sizzling_pan_3ms",2.0,0.5
+"cough_3ms, snore_3ms, brush_teeth_3ms, sizzling_pan_3ms","snore_3ms, cough_3ms, brush_teeth_3ms, sizzling_pan_3ms",0.0,0.75
+"drink_water_3ms, brush_teeth_3ms, frog_3ms, foot_step_3ms","brush_teeth_3ms, drink_water_3ms, frog_3ms, foot_step_3ms",0.0,0.475
+"drink_water_3ms, frog_3ms, sizzling_pan_3ms, motor_3ms","drink_water_3ms, sizzling_pan_3ms, frog_3ms, motor_3ms",1.0,0.425
+"drink_water_3ms, sizzling_pan_3ms, car_engine_3ms, baby_3ms","drink_water_3ms, car_engine_3ms, sizzling_pan_3ms, baby_3ms",1.0,0.375
+"drink_water_3ms, sizzling_pan_3ms, phone_ring_3ms, bell_3ms","sizzling_pan_3ms, drink_water_3ms, phone_ring_3ms, bell_3ms",0.0,0.275
+"foot_step_3ms, sheep_3ms, frog_3ms, car_engine_3ms","sheep_3ms, foot_step_3ms, frog_3ms, car_engine_3ms",0.0,0.7
+"frog_3ms, foot_step_3ms, drink_water_3ms, sizzling_pan_3ms","frog_3ms, drink_water_3ms, foot_step_3ms, sizzling_pan_3ms",1.0,0.35
+"laugh_3ms, brush_teeth_3ms, sizzling_pan_3ms, car_horn_3ms","laugh_3ms, brush_teeth_3ms, car_horn_3ms, sizzling_pan_3ms",2.0,0.7
+"laugh_3ms, motor_3ms, brush_teeth_3ms, frog_3ms","motor_3ms, laugh_3ms, brush_teeth_3ms, frog_3ms",0.0,0.525
+"phone_ring_3ms, baby_3ms, foot_step_3ms, drink_water_3ms","phone_ring_3ms, foot_step_3ms, baby_3ms, drink_water_3ms",1.0,0.475
+"sheep_3ms, bell_3ms, laugh_3ms, baby_3ms","sheep_3ms, bell_3ms, baby_3ms, laugh_3ms",2.0,0.7
+"sizzling_pan_3ms, drink_water_3ms, car_horn_3ms, snore_3ms","sizzling_pan_3ms, drink_water_3ms, snore_3ms, car_horn_3ms",2.0,0.65
+"snore_3ms, foot_step_3ms, laugh_3ms, drink_water_3ms","snore_3ms, laugh_3ms, foot_step_3ms, drink_water_3ms",1.0,0.525
+"snore_3ms, laugh_3ms, foot_step_3ms, baby_3ms","snore_3ms, laugh_3ms, baby_3ms, foot_step_3ms",2.0,0.525
