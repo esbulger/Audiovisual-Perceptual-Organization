@@ -32,9 +32,6 @@ Use a unitary sequence that includes both pitch and words/syllables to achieve c
     - P/A words/syllables | consistent pitches
     - Solution: use P/A words/syllables but absent pitches to create a new pair 
 
-## Experiment design (version 4) and the questions it answers 
-Based on the provided template and the content of the "ARO_Abstract_Will.pdf" file, here's the markdown for Experiment design (version 4) and the questions it answers:
-
 ## Experiment design (version 4) and the questions it answers
 
 ### S/D (Same/Different)
