@@ -45,4 +45,4 @@ Use a unitary sequence that includes both pitch and words/syllables to achieve c
     - Variables: Use of tones, everyday sounds, and cat meows to test the impact of perceptual similarity on item identification.
     - Rational: Examining the influence of perceptual similarity on memory tasks, using sets of sounds that range from highly to moderately similar.
 
-This design aims to delve deeper into how pitch and perceptual similarity independently influence auditory sequence memory and recognition, expanding on previous findings by introducing a novel sound set (cat meows).
+This design aims to delve deeper into how pitch and perceptual similarity independently influence auditory sequence memory and recognition, expanding on previous findings by introducing an intermediate similarity sound set (cat meows).
